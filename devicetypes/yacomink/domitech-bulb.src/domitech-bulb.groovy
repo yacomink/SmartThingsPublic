@@ -12,7 +12,7 @@
  *
  */
 metadata {
-	definition (name: "Dimmer Switch", namespace: "smartthings", author: "SmartThings", ocfDeviceType: "oic.d.light") {
+	definition (name: "Domitech Bulb", namespace: "yacomink", author: "Andy Yaco-Mink", ocfDeviceType: "oic.d.light") {
 		capability "Switch Level"
 		capability "Actuator"
 		capability "Indicator"
